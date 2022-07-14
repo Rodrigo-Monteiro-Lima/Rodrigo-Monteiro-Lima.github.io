@@ -1,0 +1,48 @@
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  
+
+  p {
+    font-family: sans-serif;
+    text-align: justify;
+  }
+
+  body {
+    background-color: rgb(146, 180, 244);
+  }
+
+  #lugar {
+    font-style: italic;
+  }
+
+  .example-item1 {
+    font-size: 20px;
+  }
+
+  .example-item2 {
+    font-size: 25px;
+  }
+
+  .example-item3 {
+   font-size: 30px;    
+  }
+
+  .example-item4 {
+   font-size: 15px; 
+  }
+
+  .example-item5 {
+   font-size: 17px; 
+  }
+
+  .example-item6 {
+   font-size: 19px; 
+  }
+
+  #trybe {
+    text-decoration: underline;
+  }
