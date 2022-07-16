@@ -1,48 +1,74 @@
 h1 {
     font-family: fantasy;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: underline;    
   }
-
-  
 
   p {
     font-family: sans-serif;
     text-align: justify;
+    font-size: 20px;
   }
 
   body {
     background-color: rgb(146, 180, 244);
+    padding: 2%;
   }
 
   #lugar {
     font-style: italic;
   }
 
-  .example-item1 {
+  .example-item {
+    font-size: 20px;
+  }
+  
+  #trybe {
+    text-decoration: underline;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
     font-size: 20px;
   }
 
-  .example-item2 {
+  img {
+   
+  }
+
+  h3, h4 {
     font-size: 25px;
   }
 
-  .example-item3 {
-   font-size: 30px;    
+  li {
+    font-size: 20px;
   }
 
-  .example-item4 {
-   font-size: 15px; 
+  #foto {
+    float: left;
+    height: 280px;
+    padding: 10px; 
+    background-color: aqua;   
   }
 
-  .example-item5 {
-   font-size: 17px; 
+  #container {
+    height: 300px;
+    position: relative;
   }
 
-  .example-item6 {
-   font-size: 19px; 
+  #description {
+    position: absolute;
+    right: 100px;
+    bottom: 120px;
   }
 
-  #trybe {
-    text-decoration: underline;
+  ul li:nth-child(odd) {
+    color: white;
+  }
+
+  #discord {
+    color: black;
   }
